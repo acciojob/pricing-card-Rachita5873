@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{
+	text-align:center;
+}
+div{
+	background-color:lightgray;
+	width:400px;
+	height:500px;
+}
+#btn{
+	background-color:red;
+	border-radius: 8px;
+	padding:10px;
+}
